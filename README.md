@@ -44,3 +44,5 @@ symbolic-tech consumer products, and writing that won't stay in its lane.
 ---
 
 *Building structures that don't domesticate the thing they're meant to support.*
+
+<!-- profile readme nudge 2026-05-04T23:45:38Z -->
