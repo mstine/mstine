@@ -1,48 +1,50 @@
 # Howdy.
 
-I build at the seam of enterprise rigor and feral creativity.
+I build at the seam between the analytical mind and the symbolic one.
 
-Twenty-five years across regulated environments — financial services, healthcare,
-enterprise SaaS — running parallel to an independent practice in AI infrastructure,
-symbolic-tech consumer products, and writing that won't stay in its lane.
+Twenty-five years in the guts of enterprise systems: distributed architectures where a
+bad design decision doesn't just fail, it fails at 2 AM on a Friday. Lately that's AI:
+building with it, governing it, and writing about what it's quietly doing to the people
+using it. I'm also an archetypal tarotist, astrologer, and chaos witch. Most people keep
+those worlds in separate rooms. I think that's a load of horseshit.
 
-## Currently shipping
+## Day job
 
-- **[Psyche](https://psyche.sh/architecture.html)** — production MCP-based AI
-  cognitive scaffold. Cross-session memory, semantic recall, agentic workflows.
-  Solo-built. Daily-driver.
-- **RitualSync** — consumer AI for symbolic-practice communities.
-  Flagship: **[TarotPulse](https://mytarotpulse.com)** (tarot reader platform,
-  active customer base).
-- **[Feral Architecture](https://feralarchitecture.com)** — publication on
-  AI + engineering + depth work.
-- **Digital Intuition** — coaching for senior technical leaders integrating
-  engineering, AI fluency, and the symbolic/contemplative work that usually
-  gets kept off the org chart.
+**CVS Health**: Executive Director, Delivery & Reliability Engineering for Enterprise
+Data & AI Platforms. I ship most of my work by directing parallel AI agents inside a
+regulated Fortune-10 enterprise, with human gates and independent verification on
+everything they produce. 1,301 agent plans, every one verified. Agents open PRs; they
+never merge.
 
-## Published
+Before that: Principal Architect in **JPMorgan Chase**'s Chief Technology Office
+(firmwide language strategy, OpenRewrite-based modernization), and Global Field CTO at
+**Pivotal**.
 
-- 📘 [Migrating to Cloud-Native Application Architectures](https://www.oreilly.com/library/view/migrating-to-cloud-native/9781492048701/) — O'Reilly
-- 🎓 [DDD and Event-Driven Microservices Course](https://github.com/ddd-edm-online-course) — 221★ / 121 forks on the materials
+## What I've built
 
-## Enterprise track
+- **[Psyche](https://psyche.sh)**: a personal AI cognitive system built as a set of MCP
+  servers. Cross-session memory, semantic recall, thread-based context. 3,100+ commits,
+  built almost entirely with AI coding agents.
+- **[TarotPulse](https://mytarotpulse.com)**: flagship of **RitualSync**, consumer AI
+  for symbolic-practice communities.
+- **[ARCÆON](https://arcaeon.rocks)**: a rock opera of the major arcana.
+- **[sigil-spinner](https://www.npmjs.com/package/@falkensmage/sigil-spinner)**:
+  planetary sigils traced across the classical kamea as stylable inline SVG. CLI,
+  library, and web component.
 
-- **CVS Health** — Executive Director, Delivery & Reliability Engineering for
-  Enterprise Data & AI Platforms *(current)*
-- **JPMorgan Chase** — Principal Architect, Chief Technology Office (firmwide
-  language ecosystem strategy + OpenRewrite-based modernization automation
-  across thousands of engineers)
-- **Pivotal Software / VMware Tanzu** — Global Field CTO (Fortune 500
-  cloud-native transformation advisory)
+## Writing & talking
 
-## More
+- 📘 *Code Governance for AI-Native Software Development* (O'Reilly report, early release, 2026)
+- 📘 [*Migrating to Cloud-Native Application Architectures*](https://www.oreilly.com/library/view/migrating-to-cloud-native/9781492047605/) (O'Reilly)
+- ✍️ [Feral Architecture](https://feralarchitecture.com): essays on AI, engineering
+  culture, and the inner life of the people who build software
+- 🎙️ [Rewired](https://rewired.show) with Jaye Anne Beringer: what happens when you
+  leave the rigid belief systems and start finding what's alive
 
-- 📍 Memphis, TN
-- 🌱 Generator 1/3
-- 🌐 [falkensmage.com](https://falkensmage.com)
+## Elsewhere
+
+🌐 [falkensmage.com](https://falkensmage.com) · 💼 [LinkedIn](https://linkedin.com/in/mattstine) · 📍 Near Memphis, TN
 
 ---
 
-*Building structures that don't domesticate the thing they're meant to support.*
-
-<!-- profile readme nudge 2026-05-04T23:45:38Z -->
+*The writing is the front door. Start there, then follow whatever pulls you.*
