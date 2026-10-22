@@ -47,4 +47,4 @@ Before that: Principal Architect in **JPMorgan Chase**'s Chief Technology Office
 
 ---
 
-*The writing is the front door. Start there, then follow whatever pulls you.*
+*Building structures that don't domesticate the thing they're meant to support.*
