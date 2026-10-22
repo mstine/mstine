@@ -34,7 +34,7 @@ Before that: Principal Architect in **JPMorgan Chase**'s Chief Technology Office
 
 ## Writing & talking
 
-- 📘 *Code Governance for AI-Native Software Development* (O'Reilly report, early release, 2026)
+- 📘 [*Code Governance for AI-Native Software Development*](https://www.oreilly.com/library/view/code-governance-for/0642572416409/) (O'Reilly report, early release, 2026)
 - 📘 [*Migrating to Cloud-Native Application Architectures*](https://www.oreilly.com/library/view/migrating-to-cloud-native/9781492047605/) (O'Reilly)
 - ✍️ [Feral Architecture](https://feralarchitecture.com): essays on AI, engineering
   culture, and the inner life of the people who build software
